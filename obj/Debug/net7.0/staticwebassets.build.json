@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hYv6zO5x5C+ZPxBkoNKHgL5s32WdMfUaRuoekuy8+Lg=",
+  "Source": "MC-SayHello",
+  "BasePath": "_content/MC-SayHello",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
