@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desktop\\CodeStack Academy\\Level2\\MC-SayHello\\MC-SayHello.csproj": {}
+    "/Users/waqasdad/MC-SayHello/MC-SayHello.csproj": {}
   },
   "projects": {
-    "C:\\Desktop\\CodeStack Academy\\Level2\\MC-SayHello\\MC-SayHello.csproj": {
+    "/Users/waqasdad/MC-SayHello/MC-SayHello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desktop\\CodeStack Academy\\Level2\\MC-SayHello\\MC-SayHello.csproj",
+        "projectUniqueName": "/Users/waqasdad/MC-SayHello/MC-SayHello.csproj",
         "projectName": "MC-SayHello",
-        "projectPath": "C:\\Desktop\\CodeStack Academy\\Level2\\MC-SayHello\\MC-SayHello.csproj",
-        "packagesPath": "C:\\Users\\jxpon\\.nuget\\packages\\",
-        "outputPath": "C:\\Desktop\\CodeStack Academy\\Level2\\MC-SayHello\\obj\\",
+        "projectPath": "/Users/waqasdad/MC-SayHello/MC-SayHello.csproj",
+        "packagesPath": "/Users/waqasdad/.nuget/packages/",
+        "outputPath": "/Users/waqasdad/MC-SayHello/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jxpon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/waqasdad/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

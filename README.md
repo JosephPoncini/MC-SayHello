@@ -8,3 +8,5 @@
 
 // Peer Reviewed by: 
 // Peer Review: 
+
+After using terminal for swagger, the endpoint for code runs using Post after entering a username. The output in PostMan reads "Hello, {username}." Good job!
