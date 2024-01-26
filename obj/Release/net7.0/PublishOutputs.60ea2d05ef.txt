@@ -1,0 +1,12 @@
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\MC-SayHello.exe
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\appsettings.Development.json
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\appsettings.json
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\MC-SayHello.dll
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\MC-SayHello.deps.json
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\MC-SayHello.runtimeconfig.json
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\MC-SayHello.pdb
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\Microsoft.OpenApi.dll
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desktop\CodeStack Academy\Level 2\MC-SayHello\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
